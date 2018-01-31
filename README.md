@@ -1,4 +1,5 @@
 # Heimdall
+by: Edmundo Rubio.
 
 ### Please read all the instructions before starting this code challenge.
 
@@ -8,8 +9,8 @@ Visit this link for instructions on how to install Phoenix, Elixir, and the hard
 
 ### Challenge
 
-Most products sold in retail have on them what's called a UPC-A barcode. 
-UPC-A barcodes are a set of 12 digits. The first 11 digits are a product identifier while the last digit is what's called a check digit. The check digit exists to ensure that the barcode was generated correctly. 
+Most products sold in retail have on them what's called a UPC-A barcode.
+UPC-A barcodes are a set of 12 digits. The first 11 digits are a product identifier while the last digit is what's called a check digit. The check digit exists to ensure that the barcode was generated correctly.
 Here's where the challenge begins.
 
 We need our phoenix app to be able to generate a check digit so that our barcodes will work.
